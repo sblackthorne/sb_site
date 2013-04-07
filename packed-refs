@@ -1,0 +1,15 @@
+# pack-refs with: peeled 
+292a6d563efb51be1ae34af36252a0a604763972 refs/tags/v2.0
+^9f40242b1e7eb0098f0ef3c508c7bed7e647b982
+8d7ef9ad71b60a9a21a6ca6c66e507e1cbea5705 refs/heads/site-2.1
+6ae3369466eff76138dec074372a3286a0119476 refs/heads/site
+9f54cbd0f7dcaa6224ba03fb98e705b138530976 refs/heads/rubygemcli
+8fe52e18bc65dbebe3b6bcc93267fb81325aff88 refs/heads/refactor_with_tests
+b5131893a28b63aae136ef460203cb1655ca16eb refs/heads/plugin-install
+9b599404c7f14fc37f24f887cfb337d5d47ad38e refs/heads/migrator
+7dfba9a26e21b970f74aa663a86d407ae8fd5958 refs/heads/master
+1750830c63aacc13fce85b7e4de53541c024ccef refs/heads/linklog
+7bdab0e65c86d8bd9fe3b46a4bf1ca92b1e1a54e refs/heads/guard
+43810533b491802805f4493c03f0a52dfc3abbac refs/heads/gh-pages
+95a3e46254fc66f14cc0b96b96d52f807c774942 refs/heads/colorize
+ee6f68526d0e8cad1cd12dc172aac41937ea57fc refs/heads/2.1
